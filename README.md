@@ -1,28 +1,83 @@
-Hi there, BennyShaw👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/your-username/your-repo/assets/banner.gif" alt="Hi, I'm Bernard" width="100%" />
+</p>
 
-!(https://github.com/Jooleric)
+<h1 align="center">Hi 👋, I'm Bernard Joseph</h1>
 
-## About Me 🚀
+<h3 align="center">Software Engineer | Problem Solver | ALX Learner</h3>
+<h4 I'm a passionate **junior software developer** with experience in **HTML, CSS, JavaScript and Node.js**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</h4>
 
-I'm a passionate **junior software developer** with experience in **HTML, CSS, JavaScript and Node.js**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+---
 
-- 🌱 Currently learning: **Express.js, Django, Flask**
-- 🌍 Languages: **CSS, JavaScript and Node.js**
-- 📫 How to reach me: **jbtek01@gmail.com**
+<p align="center">
+  <i>“Driven by purpose, powered by code.”</i>
+</p>
 
+---
 
-## My Skills 🧠
+## 🚀 About Me
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- 💻 I'm currently enrolled in the prestigious **ALX Software Engineering Program**
+- 🌍 Based in Nigeria — solving **real-world problems using technology**
+- 🔧 I love building:
+  - RESTful APIs
+  - Mobile Apps (Flutter / React Native)
+  - Scalable Web Applications
+  - Open Source Projects
+  - Command Line Tools
+- 🎯 My passion lies in creating meaningful tech solutions that make lives better
 
+---
 
-## Get in Touch 📬
+## 🔨 Technologies & Tools
 
-- **Personal Website** https://sites.google.com/view/benardogar/home
-- **LinkedIn** https://www.linkedin.com/in/benard-joseph-a1492a112
-- **Twitter]** https://x.com/Dami_lare24
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📈 My GitHub Stats
+
+--
+
+## 🧠 What I'm Learning
+
+- Advanced Data Structures & Algorithms
+- Backend Development (Django | Express.js)
+- DevOps & Deployment (CI/CD, Docker, GitHub Actions)
+- Cloud Platforms (AWS, Netlify, Firebase)
+
+---
+
+## 📌 Projects I'm Proud Of
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🚜 **AgroRent** | A mobile app to rent mechanized farming tools in Ogun State | Flutter, Firebase |
+| 🔐 **AuthAPI** | A secure RESTful API for authentication | Node.js, Express, MongoDB |
+| 🛠️ **CLI Helper** | Command-line tool to automate dev tasks | Python |
+
+[> Explore more on my [pinned repos] <https://github.com/Jooleric>
+---
+
+## 🤝 Let’s Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/benard-joseph-a1492a112" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:your.jbteck01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://x.com/Dami_lare24)"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
+
+---
+
+<p align="center">“If it's worth building, it's worth building well.” 🚀</p>
 
 
