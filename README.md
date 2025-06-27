@@ -3,7 +3,7 @@
   <img src="https://github.com/your-username/your-repo/assets/banner.gif" alt="Hi, I'm Bernard" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Bernard Joseph</h1>
+<h1 align="center">Hi 👋, I'm Benard Ogar</h1>
 
 <h3 align="center">Software Engineer | Problem Solver | ALX Learner</h3>
 <h4 I'm a passionate **junior software developer** with experience in **HTML, CSS, JavaScript and Node.js**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</h4>
@@ -44,9 +44,6 @@
 
 ---
 
-## 📈 My GitHub Stats
-
---
 
 ## 🧠 What I'm Learning
 
